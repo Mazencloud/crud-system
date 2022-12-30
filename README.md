@@ -2,7 +2,7 @@
 
 # CRUD System
 
-In this project, I've created a CRUD (create, read, update, delete) system using JavaScript
+In this project, I've created a CRUD (create, read, update, delete) system using JavaScript.
 
 
 ## Tech Stack
@@ -13,6 +13,7 @@ In this project, I've created a CRUD (create, read, update, delete) system using
 
 - Clean code
 - User-Friendly
+- Use of localStorage
 
 
 ## 🚀 About Me
