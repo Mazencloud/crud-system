@@ -2,7 +2,7 @@
 
 # CRUD System
 
-In this project, I've created a crud (create, read, update, delete) system using javascript.\
+In this project, I've created a crud (create, read, update, delete) system using javascript.
 
 
 ## Tech Stack
